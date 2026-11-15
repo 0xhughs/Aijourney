@@ -1,0 +1,19 @@
+# Dependencies & virtual environments
+node_modules/
+.venv/
+venv/
+tools/.venv/
+__pycache__/
+*.py[cod]
+
+# Test & build scratch output
+.tmp/
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+
+# Logs & local environment
+*.log
+.env
+.env.*
